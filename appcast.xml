@@ -6,6 +6,20 @@
     <description>Updates for Psst</description>
     <language>en</language>
     <item>
+      <title>Psst 0.3.0-beta.4</title>
+      <pubDate>Wed, 18 Nov 2026 02:52:52 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.3.0-beta.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description>&lt;h3&gt;Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Meetings hidden by name wait in the Hidden list like any other hidden meeting&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <sparkle:fullReleaseNotesLink>https://github.com/schultzisaiah/psst-macos/releases/tag/v0.3.0-beta.4</sparkle:fullReleaseNotesLink>
+      <enclosure url="https://github.com/schultzisaiah/psst-macos/releases/download/v0.3.0-beta.4/Psst-0.3.0-beta.4.dmg" length="4548038" type="application/octet-stream" sparkle:edSignature="+7JCraogAjeHJI2ugB70hgvyYjqwh+zUUfILXSEuVLoS+SKk4GlYE5ZyixzOtHGzkCYjXTCA5Rgk7tLrOlGsDQ==" />
+    </item>
+    <item>
       <title>Psst 0.3.0-beta.2</title>
       <pubDate>Wed, 18 Nov 2026 02:38:32 GMT</pubDate>
       <sparkle:version>9</sparkle:version>
