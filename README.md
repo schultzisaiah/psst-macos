@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is the **beta** track, at 0.3.0-beta.8. For the stable release, see [main](https://github.com/schultzisaiah/psst-macos).
+> This is the **beta** track, at 0.4.0-beta.1. For the stable release, see [main](https://github.com/schultzisaiah/psst-macos).
 
 <p align="center">
   <img src="docs/screenshots/icon.png" width="128" alt="Psst app icon">
@@ -49,9 +49,19 @@ In a meeting, the menu bar shows its title and the time left over a bar that fil
 
 - Works with **Focus**: show alerts as usual, quietly, or not until the Focus ends.
 - Alerts **wait out a locked screen** and stay **out of screen shares and recordings**.
+- Works with **VoiceOver**: each alert is announced as it appears ("Design sync, in 2 minutes, on Meet"), with Join, Snooze, and Dismiss as actions, and the menu bar timer reads out what it shows.
 - Psst uses the calendar accounts already set up on your Mac (iCloud, Google, Exchange, and others). Your calendar never leaves your Mac. The only thing Psst fetches is its update feed from this repository.
 
 ## Install
+
+With [Homebrew](https://brew.sh):
+
+```sh
+brew trust schultzisaiah/tap
+brew install --cask schultzisaiah/tap/psst-reminders
+```
+
+Or by hand:
 
 1. Download `Psst-x.y.z.dmg` from [Releases](https://github.com/schultzisaiah/psst-macos/releases/latest).
 2. Open it and drag Psst to Applications.
