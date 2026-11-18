@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is the **beta** track, at 0.3.0-beta.6. For the stable release, see [main](https://github.com/schultzisaiah/psst-macos).
+> This is the **beta** track, at 0.3.0-beta.7. For the stable release, see [main](https://github.com/schultzisaiah/psst-macos).
 
 <p align="center">
   <img src="docs/screenshots/icon.png" width="128" alt="Psst app icon">
