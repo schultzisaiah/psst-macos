@@ -12,7 +12,11 @@
       <sparkle:shortVersionString>0.3.0-beta.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
-      <description>&lt;h3&gt;Fixes&lt;/h3&gt;
+      <description>&lt;h3&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hide every meeting with a given name, recurring or not&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fixes&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Meetings hidden by name wait in the Hidden list like any other hidden meeting&lt;/li&gt;
 &lt;/ul&gt;</description>
