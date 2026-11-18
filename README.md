@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is the **beta** track, at 0.3.0-beta.7. For the stable release, see [main](https://github.com/schultzisaiah/psst-macos).
+> This is the **beta** track, at 0.3.0-beta.8. For the stable release, see [main](https://github.com/schultzisaiah/psst-macos).
 
 <p align="center">
   <img src="docs/screenshots/icon.png" width="128" alt="Psst app icon">
@@ -34,7 +34,7 @@ Psst lives in your menu bar and reads the calendars already on your Mac. Before 
 - **Large cards** with who's invited, the room, and full-width Join and Snooze buttons.
 - **Swipe like a notification**: two fingers right to dismiss, left to snooze.
 - **Every display** gets the alert, so a meeting can't sneak up while you're looking at the other monitor.
-- **As many reminders as you like**, each with its own size, position, color, sound, and screen glow.
+- **As many reminders as you like**, each with its own size, position, color, sound, and screen glow. Each can be just for calls, just for in-person meetings, or just for certain calendars.
 
 ## Menu bar timer
 
@@ -55,7 +55,7 @@ In a meeting, the menu bar shows its title and the time left over a bar that fil
 
 1. Download `Psst-x.y.z.dmg` from [Releases](https://github.com/schultzisaiah/psst-macos/releases/latest).
 2. Open it and drag Psst to Applications.
-3. Open Psst and allow calendar access.
+3. Open Psst. A short welcome walks you through calendar access and the basics.
 
 Psst is signed and notarized by Apple. It needs macOS 14 or later and runs on Apple silicon and Intel Macs.
 
