@@ -6,6 +6,19 @@
     <description>Updates for Psst</description>
     <language>en</language>
     <item>
+      <title>Psst 0.4.0</title>
+      <pubDate>Wed, 18 Nov 2026 04:33:57 GMT</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;VoiceOver announces each alert, and reads the menu bar timer and every icon button&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <sparkle:fullReleaseNotesLink>https://github.com/schultzisaiah/psst-macos/releases/tag/v0.4.0</sparkle:fullReleaseNotesLink>
+      <enclosure url="https://github.com/schultzisaiah/psst-macos/releases/download/v0.4.0/Psst-0.4.0.dmg" length="4852827" type="application/octet-stream" sparkle:edSignature="ctnQKFA1/CBCVR+ju2GIG/Cp4wvbSZPn7Te8fvR5lW13Q4MWmSqXypnQfXtnAqxHh5mkLHSnFZN5t9HnXYtzBw==" />
+    </item>
+    <item>
       <title>Psst 0.4.0-beta.1</title>
       <pubDate>Wed, 18 Nov 2026 04:25:35 GMT</pubDate>
       <sparkle:version>16</sparkle:version>
