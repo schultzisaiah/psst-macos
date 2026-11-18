@@ -10,14 +10,16 @@
   <a href="https://github.com/schultzisaiah/psst-macos/releases/latest"><b>Download for Mac</b></a>
 </p>
 
-<p align="center">
-  <img src="docs/screenshots/alert-card-light.jpg" width="400" alt="A large Psst alert: Design sync starting in 41 seconds, with attendees, room, and a Join Meet button (light mode)">
-  <img src="docs/screenshots/alert-card-dark.jpg" width="400" alt="A large Psst alert: Design sync starting in 41 seconds, with attendees, room, and a Join Meet button (dark mode)">
-</p>
+<!-- docs/psst-demo.mp4, uploaded through GitHub's editor, which is the only way it plays inline. -->
+https://github.com/user-attachments/assets/42b72472-e0bb-4086-8fa0-144c03a7c475
 
 Psst lives in your menu bar and reads the calendars already on your Mac. Before each meeting, a glossy pill drops out from under the notch, counts down, and puts the call one click away. When the meeting starts, the alert can move to the center of the screen and the screen's edges glow in the calendar's color.
 
 ## Alerts
+
+<p align="center">
+  <img src="docs/screenshots/demo.gif" width="800" alt="Psst on a Mac desktop: a large Design sync alert counts down at the center of the screen while the screen's edges glow orange, then turns to Starting now with a Join Meet button">
+</p>
 
 <p align="center">
   <img src="docs/screenshots/alert-pills-light.jpg" width="400" alt="Three Psst pills: Team standup in 57s with Join, Quarterly planning review in 5 min with Join, and a plain reminder with no Join button (light mode)">
@@ -29,7 +31,7 @@ Psst lives in your menu bar and reads the calendars already on your Mac. Before 
 - **Large cards** with who's invited, the room, and full-width Join and Snooze buttons.
 - **Swipe like a notification**: two fingers right to dismiss, left to snooze.
 - **Every display** gets the alert, so a meeting can't sneak up while you're looking at the other monitor.
-- **As many reminders as you like**, each with its own size, position, color, sound, and screen glow.
+- **As many reminders as you like**, each with its own size, position, color, sound, and screen glow. Each can be just for calls, just for in-person meetings, or just for certain calendars.
 
 ## Menu bar timer
 
@@ -38,7 +40,7 @@ Psst lives in your menu bar and reads the calendars already on your Mac. Before 
   <img src="docs/screenshots/menu-bar-dark.png" width="400" alt="Menu bar timers: Sprint Planning 00:41:39 in a green bar, and Team standup in 00:12:05 in a plain bar (dark mode)">
 </p>
 
-In a meeting, the menu bar shows its title and the time left over a bar that fills as it goes. Between meetings, it counts down to the next one. Click it for today's schedule and a Join button.
+In a meeting, the menu bar shows its title and the time left over a bar that fills as it goes. Between meetings, it counts down to the next one. Click it for today's schedule and a Join button. Hide a meeting that's been called off, or right-click one to always hide meetings with that name.
 
 ## Focus and privacy
 
@@ -50,7 +52,7 @@ In a meeting, the menu bar shows its title and the time left over a bar that fil
 
 1. Download `Psst-x.y.z.dmg` from [Releases](https://github.com/schultzisaiah/psst-macos/releases/latest).
 2. Open it and drag Psst to Applications.
-3. Open Psst and allow calendar access.
+3. Open Psst. A short welcome walks you through calendar access and the basics.
 
 Psst is signed and notarized by Apple. It needs macOS 14 or later and runs on Apple silicon and Intel Macs.
 
