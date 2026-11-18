@@ -6,6 +6,24 @@
     <description>Updates for Psst</description>
     <language>en</language>
     <item>
+      <title>Psst 0.2.1-beta.1</title>
+      <pubDate>Wed, 18 Nov 2026 01:35:25 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.2.1-beta.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description>&lt;h3&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Psst updates itself, from a Stable or Beta track you pick in Settings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;the release checksum file names the DMG as downloaded, so shasum -c works&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <sparkle:fullReleaseNotesLink>https://github.com/schultzisaiah/psst-releases/releases/tag/v0.2.1-beta.1</sparkle:fullReleaseNotesLink>
+      <enclosure url="https://github.com/schultzisaiah/psst-releases/releases/download/v0.2.1-beta.1/Psst-0.2.1-beta.1.dmg" length="4461854" type="application/octet-stream" sparkle:edSignature="/5+eJu7Q1osNl+QI4YcaoNzGIm1pZjmFyw83SmCkyDmHtwbVVqZN8fStH1Ej6Tb28/9X4y9og+EoDAyDrWSKBg==" />
+    </item>
+    <item>
       <title>Psst 0.2.0</title>
       <pubDate>Wed, 18 Nov 2026 01:28:30 GMT</pubDate>
       <sparkle:version>5</sparkle:version>
