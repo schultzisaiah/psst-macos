@@ -6,6 +6,20 @@
     <description>Updates for Psst</description>
     <language>en</language>
     <item>
+      <title>Psst 0.3.0-beta.2</title>
+      <pubDate>Wed, 18 Nov 2026 02:38:32 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.3.0-beta.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description>&lt;h3&gt;Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Psst&amp;#x27;s bundle ID is now heliopolis.p3x972.psst, and settings carry over from the old one&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <sparkle:fullReleaseNotesLink>https://github.com/schultzisaiah/psst-macos/releases/tag/v0.3.0-beta.2</sparkle:fullReleaseNotesLink>
+      <enclosure url="https://github.com/schultzisaiah/psst-macos/releases/download/v0.3.0-beta.2/Psst-0.3.0-beta.2.dmg" length="4494994" type="application/octet-stream" sparkle:edSignature="XjYdw9UjnotD7IUV9oMPmQe+mJnCegb6luI0xmY9/GfOGloQ6T645DQQTvopgGAS36JgjJmOrWgBXMw24nl8Dg==" />
+    </item>
+    <item>
       <title>Psst 0.3.0-beta.1</title>
       <pubDate>Wed, 18 Nov 2026 02:27:18 GMT</pubDate>
       <sparkle:version>8</sparkle:version>
