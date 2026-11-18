@@ -6,6 +6,20 @@
     <description>Updates for Psst</description>
     <language>en</language>
     <item>
+      <title>Psst 0.3.0-beta.5</title>
+      <pubDate>Wed, 18 Nov 2026 03:01:59 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.3.0-beta.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description>&lt;h3&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Psst says what to do when it can&amp;#x27;t see your calendars, and notices when you fix it&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <sparkle:fullReleaseNotesLink>https://github.com/schultzisaiah/psst-macos/releases/tag/v0.3.0-beta.5</sparkle:fullReleaseNotesLink>
+      <enclosure url="https://github.com/schultzisaiah/psst-macos/releases/download/v0.3.0-beta.5/Psst-0.3.0-beta.5.dmg" length="3487222" type="application/octet-stream" sparkle:edSignature="EfRx9hjwsTOCvlQcai4cj4a3FG7w4SW0VOrNyY3NQLdnh77ZPqS/yand2NDggEEsRm8I8HuiFwpgSu02+LWYAg==" />
+    </item>
+    <item>
       <title>Psst 0.3.0-beta.4</title>
       <pubDate>Wed, 18 Nov 2026 02:52:52 GMT</pubDate>
       <sparkle:version>10</sparkle:version>
