@@ -6,6 +6,21 @@
     <description>Updates for Psst</description>
     <language>en</language>
     <item>
+      <title>Psst 0.3.0-beta.8</title>
+      <pubDate>Wed, 18 Nov 2026 03:59:14 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.3.0-beta.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description>&lt;h3&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A welcome walkthrough on first launch&lt;/li&gt;
+&lt;li&gt;A reminder can be just for meetings with a call, without one, or on certain calendars&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <sparkle:fullReleaseNotesLink>https://github.com/schultzisaiah/psst-macos/releases/tag/v0.3.0-beta.8</sparkle:fullReleaseNotesLink>
+      <enclosure url="https://github.com/schultzisaiah/psst-macos/releases/download/v0.3.0-beta.8/Psst-0.3.0-beta.8.dmg" length="3728978" type="application/octet-stream" sparkle:edSignature="y9/8DJ3xcF/vFKUoG9yLfKZSZkEZcS+/y0RkKv7dGFQoLd+zEPOvfzIW5vQp73I77tHPmyrpKjL46GC+CgP6DA==" />
+    </item>
+    <item>
       <title>Psst 0.3.0-beta.7</title>
       <pubDate>Wed, 18 Nov 2026 03:41:26 GMT</pubDate>
       <sparkle:version>13</sparkle:version>
