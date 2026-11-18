@@ -6,6 +6,20 @@
     <description>Updates for Psst</description>
     <language>en</language>
     <item>
+      <title>Psst 0.3.0-beta.7</title>
+      <pubDate>Wed, 18 Nov 2026 03:41:26 GMT</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.3.0-beta.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description>&lt;h3&gt;Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reminder chips are outlined in their color, and the selected one keeps a gradient&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <sparkle:fullReleaseNotesLink>https://github.com/schultzisaiah/psst-macos/releases/tag/v0.3.0-beta.7</sparkle:fullReleaseNotesLink>
+      <enclosure url="https://github.com/schultzisaiah/psst-macos/releases/download/v0.3.0-beta.7/Psst-0.3.0-beta.7.dmg" length="4614298" type="application/octet-stream" sparkle:edSignature="Mz803hNNbV6Kmv/FYT3+pE7JI2rjMxk9RpQcaifl+QcLJLIz8NJ3RE5ehjuZ6ceUDLSP7UlmVpRbfKRN0MXbCQ==" />
+    </item>
+    <item>
       <title>Psst 0.3.0-beta.6</title>
       <pubDate>Wed, 18 Nov 2026 03:34:01 GMT</pubDate>
       <sparkle:version>12</sparkle:version>
