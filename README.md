@@ -13,9 +13,10 @@
   <a href="https://github.com/schultzisaiah/psst-macos/releases/latest"><b>Download for Mac</b></a>
 </p>
 
+<!-- The full demo video goes here: GitHub only plays video uploaded through its editor (docs/psst-demo.mp4). -->
+
 <p align="center">
-  <img src="docs/screenshots/alert-card-light.jpg" width="400" alt="A large Psst alert: Design sync starting in 41 seconds, with attendees, room, and a Join Meet button (light mode)">
-  <img src="docs/screenshots/alert-card-dark.jpg" width="400" alt="A large Psst alert: Design sync starting in 41 seconds, with attendees, room, and a Join Meet button (dark mode)">
+  <img src="docs/screenshots/demo.gif" width="800" alt="Psst on a Mac desktop: a large Design sync alert counts down at the center of the screen while the screen's edges glow orange, then turns to Starting now with a Join Meet button">
 </p>
 
 Psst lives in your menu bar and reads the calendars already on your Mac. Before each meeting, a glossy pill drops out from under the notch, counts down, and puts the call one click away. When the meeting starts, the alert can move to the center of the screen and the screen's edges glow in the calendar's color.
