@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is the **beta** track, at 0.3.0-beta.2. For the stable release, see [main](https://github.com/schultzisaiah/psst-macos).
+> This is the **beta** track, at 0.3.0-beta.4. For the stable release, see [main](https://github.com/schultzisaiah/psst-macos).
 
 <p align="center">
   <img src="docs/screenshots/icon.png" width="128" alt="Psst app icon">
@@ -41,7 +41,7 @@ Psst lives in your menu bar and reads the calendars already on your Mac. Before 
   <img src="docs/screenshots/menu-bar-dark.png" width="400" alt="Menu bar timers: Sprint Planning 00:41:39 in a green bar, and Team standup in 00:12:05 in a plain bar (dark mode)">
 </p>
 
-In a meeting, the menu bar shows its title and the time left over a bar that fills as it goes. Between meetings, it counts down to the next one. Click it for today's schedule and a Join button.
+In a meeting, the menu bar shows its title and the time left over a bar that fills as it goes. Between meetings, it counts down to the next one. Click it for today's schedule and a Join button. Hide a meeting that's been called off, or right-click one to always hide meetings with that name.
 
 ## Focus and privacy
 
