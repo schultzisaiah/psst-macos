@@ -6,6 +6,31 @@
     <description>Updates for Psst</description>
     <language>en</language>
     <item>
+      <title>Psst 0.3.0</title>
+      <pubDate>Wed, 18 Nov 2026 04:14:56 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A welcome walkthrough on first launch&lt;/li&gt;
+&lt;li&gt;A reminder can be just for meetings with a call, without one, or on certain calendars&lt;/li&gt;
+&lt;li&gt;The Reminders tab shows each reminder in its own color&lt;/li&gt;
+&lt;li&gt;Psst says what to do when it can&amp;#x27;t see your calendars, and notices when you fix it&lt;/li&gt;
+&lt;li&gt;Hide every meeting with a given name, recurring or not&lt;/li&gt;
+&lt;li&gt;A new update waits in the menu bar instead of interrupting you&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reminder chips are outlined in their color, and the selected one keeps a gradient&lt;/li&gt;
+&lt;li&gt;Meetings hidden by name wait in the Hidden list like any other hidden meeting&lt;/li&gt;
+&lt;li&gt;Psst&amp;#x27;s bundle ID is now heliopolis.p3x972.psst, and settings carry over from the old one&lt;/li&gt;
+&lt;li&gt;Psst checks for updates in psst-macos, the public repo&amp;#x27;s new name&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <sparkle:fullReleaseNotesLink>https://github.com/schultzisaiah/psst-macos/releases/tag/v0.3.0</sparkle:fullReleaseNotesLink>
+      <enclosure url="https://github.com/schultzisaiah/psst-macos/releases/download/v0.3.0/Psst-0.3.0.dmg" length="4804202" type="application/octet-stream" sparkle:edSignature="F8Vh2xBhKfCT5Qo844+8y+3yhPGJvn0t8yYbIjh0PMBmt2XGaKY7DCKNj5cklvqyjLN7WJEFUZuWTEgFbIEqBg==" />
+    </item>
+    <item>
       <title>Psst 0.3.0-beta.8</title>
       <pubDate>Wed, 18 Nov 2026 03:59:14 GMT</pubDate>
       <sparkle:version>14</sparkle:version>
