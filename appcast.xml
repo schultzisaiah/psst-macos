@@ -14,7 +14,7 @@
       <sparkle:channel>beta</sparkle:channel>
       <description>&lt;h3&gt;New&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;a new update waits in the menu bar instead of interrupting you&lt;/li&gt;
+&lt;li&gt;A new update waits in the menu bar instead of interrupting you&lt;/li&gt;
 &lt;/ul&gt;</description>
       <sparkle:fullReleaseNotesLink>https://github.com/schultzisaiah/psst-macos/releases/tag/v0.3.0-beta.1</sparkle:fullReleaseNotesLink>
       <enclosure url="https://github.com/schultzisaiah/psst-macos/releases/download/v0.3.0-beta.1/Psst-0.3.0-beta.1.dmg" length="4492095" type="application/octet-stream" sparkle:edSignature="wHWHru9fuTPqpMr6chaEJ87lxEle1c7uLg2bYUQ9E2gbNwFgAnWbDuNTm9MpWiVN361nBSFr3iQHTmwA4CNvBw==" />
@@ -46,7 +46,7 @@
 &lt;/ul&gt;
 &lt;h3&gt;Fixes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;the release checksum file names the DMG as downloaded, so shasum -c works&lt;/li&gt;
+&lt;li&gt;The release checksum file names the DMG as downloaded, so shasum -c works&lt;/li&gt;
 &lt;/ul&gt;</description>
       <sparkle:fullReleaseNotesLink>https://github.com/schultzisaiah/psst-macos/releases/tag/v0.2.1-beta.1</sparkle:fullReleaseNotesLink>
       <enclosure url="https://github.com/schultzisaiah/psst-macos/releases/download/v0.2.1-beta.1/Psst-0.2.1-beta.1.dmg" length="4461854" type="application/octet-stream" sparkle:edSignature="/5+eJu7Q1osNl+QI4YcaoNzGIm1pZjmFyw83SmCkyDmHtwbVVqZN8fStH1Ej6Tb28/9X4y9og+EoDAyDrWSKBg==" />
@@ -63,7 +63,7 @@
 &lt;/ul&gt;
 &lt;h3&gt;Fixes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;the release checksum file names the DMG as downloaded, so shasum -c works&lt;/li&gt;
+&lt;li&gt;The release checksum file names the DMG as downloaded, so shasum -c works&lt;/li&gt;
 &lt;/ul&gt;</description>
       <sparkle:fullReleaseNotesLink>https://github.com/schultzisaiah/psst-macos/releases/tag/v0.2.0</sparkle:fullReleaseNotesLink>
       <enclosure url="https://github.com/schultzisaiah/psst-macos/releases/download/v0.2.0/Psst-0.2.0.dmg" length="4461802" type="application/octet-stream" sparkle:edSignature="zKdFjMvxq4YwMZHco/Hf4nCpseg86f5x10/eSQzyY02POAtKyDu4qdhQ7Fijv29y6GNBc1NDF54iF4AgHBQNDw==" />
