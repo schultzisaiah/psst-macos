@@ -2,7 +2,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Psst</title>
-    <link>https://github.com/schultzisaiah/psst-releases</link>
+    <link>https://github.com/schultzisaiah/psst-macos</link>
     <description>Updates for Psst</description>
     <language>en</language>
     <item>
@@ -20,8 +20,8 @@
 &lt;ul&gt;
 &lt;li&gt;the release checksum file names the DMG as downloaded, so shasum -c works&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <sparkle:fullReleaseNotesLink>https://github.com/schultzisaiah/psst-releases/releases/tag/v0.2.1-beta.1</sparkle:fullReleaseNotesLink>
-      <enclosure url="https://github.com/schultzisaiah/psst-releases/releases/download/v0.2.1-beta.1/Psst-0.2.1-beta.1.dmg" length="4461854" type="application/octet-stream" sparkle:edSignature="/5+eJu7Q1osNl+QI4YcaoNzGIm1pZjmFyw83SmCkyDmHtwbVVqZN8fStH1Ej6Tb28/9X4y9og+EoDAyDrWSKBg==" />
+      <sparkle:fullReleaseNotesLink>https://github.com/schultzisaiah/psst-macos/releases/tag/v0.2.1-beta.1</sparkle:fullReleaseNotesLink>
+      <enclosure url="https://github.com/schultzisaiah/psst-macos/releases/download/v0.2.1-beta.1/Psst-0.2.1-beta.1.dmg" length="4461854" type="application/octet-stream" sparkle:edSignature="/5+eJu7Q1osNl+QI4YcaoNzGIm1pZjmFyw83SmCkyDmHtwbVVqZN8fStH1Ej6Tb28/9X4y9og+EoDAyDrWSKBg==" />
     </item>
     <item>
       <title>Psst 0.2.0</title>
@@ -37,8 +37,8 @@
 &lt;ul&gt;
 &lt;li&gt;the release checksum file names the DMG as downloaded, so shasum -c works&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <sparkle:fullReleaseNotesLink>https://github.com/schultzisaiah/psst-releases/releases/tag/v0.2.0</sparkle:fullReleaseNotesLink>
-      <enclosure url="https://github.com/schultzisaiah/psst-releases/releases/download/v0.2.0/Psst-0.2.0.dmg" length="4461802" type="application/octet-stream" sparkle:edSignature="zKdFjMvxq4YwMZHco/Hf4nCpseg86f5x10/eSQzyY02POAtKyDu4qdhQ7Fijv29y6GNBc1NDF54iF4AgHBQNDw==" />
+      <sparkle:fullReleaseNotesLink>https://github.com/schultzisaiah/psst-macos/releases/tag/v0.2.0</sparkle:fullReleaseNotesLink>
+      <enclosure url="https://github.com/schultzisaiah/psst-macos/releases/download/v0.2.0/Psst-0.2.0.dmg" length="4461802" type="application/octet-stream" sparkle:edSignature="zKdFjMvxq4YwMZHco/Hf4nCpseg86f5x10/eSQzyY02POAtKyDu4qdhQ7Fijv29y6GNBc1NDF54iF4AgHBQNDw==" />
     </item>
   </channel>
 </rss>
